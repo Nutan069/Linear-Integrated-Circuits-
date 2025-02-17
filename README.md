@@ -5,8 +5,7 @@ Question : Given that POWER, P=100µ W; Perform DC Analysis, Transient Analysis 
 
 # Design-1 :
 
-   ![Screenshot 2025-02-16 010255](image.png)
-
+ ![Screenshot 2025-02-16 111936](https://github.com/user-attachments/assets/0b661ae7-5761-4b9b-bd75-93c0fc60eabb)
 Aim : To find DC operating point,find gain using transient analysis and AC analysis.
 
 Components : Mosfet,resistors,DC power supply.
