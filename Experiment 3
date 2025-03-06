@@ -6,3 +6,31 @@ The main job of this amplifier is to make the difference between the signals big
 
 Basic structure of differential amplifer :
 ![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/361596516fbf46458be4dda10c262b9e52651e7b/photo1.png)
+
+A differential amplifier using MOSFETs compares two input signals, Vin1 and Vin2, and amplifies the difference between them. 
+The circuit consists of two MOSFETs (M1 and M2), where the sources of both MOSFETs are connected to a common voltage, typically ground or a reference voltage.
+The gates of MOSFET M1 and M2 are connected to the input signals Vin1 and Vin2, respectively. 
+The drains of both MOSFETs are connected together, and typically a resistor is placed there to help obtain the amplified output.
+A current source is also connected to the drains of both MOSFETs to provide a steady current.
+The output voltage, which is the amplified difference between Vin1 and Vin2, is taken from the common drain of the MOSFETs.
+This setup allows the differential amplifier to amplify the difference in the input signals, providing an output that is sensitive to their variations.
+
+FOUR TYPES OF DIFFERENTIAL PAIR AMPLIFIER: 
+Resistor-Loaded Differential Pair: 
+*Uses resistors as the drain load.
+*Simple design but has low gain due to large  requirements.
+*Limited common-mode rejection and output swing.
+
+Current Source-Loaded Differential Pair:
+* Replaces Rss with Ideal current source.
+* Improves gain.
+
+Simple Current Source Differential Pair:
+* Uses a single MOSFET as a current source.
+* Gain increases still.
+
+Active Load Differential Pair (MOSFET as Load):
+* Both Iss and Rd are replaced with a mosfet .
+* Gain is too high.
+
+Design Question : 
