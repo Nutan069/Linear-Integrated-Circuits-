@@ -1,1 +1,7 @@
 Differential amplifier
+
+A differential amplifier is an electronic device used to compare two different electrical signals. 
+It has two inputs and gives an output based on the difference between those two signals. 
+The main job of this amplifier is to make the difference between the signals bigger so that it can be easily measured or used for other purposes.
+
+Basic structure of differential amplifer :
