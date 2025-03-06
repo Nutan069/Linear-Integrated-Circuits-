@@ -5,6 +5,7 @@ It has two inputs and gives an output based on the difference between those two 
 The main job of this amplifier is to make the difference between the signals bigger so that it can be easily measured or used for other purposes.
 
 Basic structure of differential amplifer :
+
 ![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/361596516fbf46458be4dda10c262b9e52651e7b/photo1.png)
 
 A differential amplifier using MOSFETs compares two input signals, Vin1 and Vin2, and amplifies the difference between them. 
