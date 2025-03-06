@@ -61,5 +61,8 @@ Transient analysis :
 Gain = Vincm/voutcm = 50mV/200mV = 4 
 
 Frequency response : 
-![image alt](
+![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/6d9f0e2fabfc2b1d2891501b910599c6b0df6111/photo10.png)
 Bandwidth = 178 GHz 
+
+Circuit 3 : Simple current source (MOSFET as Current source) Differential amplifier :
+![image alt](
