@@ -36,8 +36,11 @@ Active Load Differential Pair (MOSFET as Load):
 Design Question : 
 ![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/bdd7a83ef7bcfd3c24aa70c864a82b3c4429e721/photo2.png)
 
-DC analysis : 
+Circuit 1 : Resistor loaded differntial amplifier : 
 ![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/a5d4f5dec104c22e11851b9536e2b03309c2cfcb/photo3.png)
+
+DC analysis :
+![image alt](
 
 Transient analysis :
 ![image alt](
