@@ -78,5 +78,15 @@ Transient analysis :
 Gain = Vincm/voutcm = 50mV/200mV = 4 
 
 Frequency response :
-![image alt](
+![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/c411ca65a6c4053b1bd72d50fe92a6bc03eced23/photo15.png)
 Bandwidth = 178 GHz 
+
+
+Inference :
+Larger Rss makes it harder for the transistors to amplify small signals, leading to reduced gain.
+* Vincm must be within the range that keeps both input transistors ON and in saturation.Since Rss allows variations in current as it doesn't produce constant current we replace resistor with constant current source which provides stable output and gain.>
+* Larger Amplitude Causes Early Distortion i.e at higher ampltitude transistor reaches saturation or cutoff earlier , limiting the range of valid Vincm.(example done for both 50mV and 100mV amplitude)
+* Maximum input swing is the largest input voltage before distortion starts.
+* Until i kept the W/L ratio of 3 transistors in 3rd ciruit there was a zero Vth , then Vth got updated .
+* When I replaced all things by mosfet , was not able to get the required output , later after managing W/L Vout was set . As there no parameters that Vout actually depends on we may not be able to vary Vout, so there was little difference in the gain. 
+* When we set Ac phase as 180 for one of the input there was a high gain
