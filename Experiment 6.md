@@ -20,7 +20,15 @@ A)
 For 1:1 mirror ratio
 Iref = P/(2*V) 
      = 0.276 mA
-     
-For transistor M1 : L=180nm , W=3um
-For transistor M2 : L=180nm , W=3um
-For transistor M3 : L=180nm , W=3.6um
+![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/b91a853b60e568e4be84a6e53ca068f435b5fa1b/b.png)
+For transistor M1 : L=180nm , W=3um;
+For transistor M2 : L=180nm , W=3um;
+For transistor M3 : L=180nm , W=3.6um;
+![image alt]()
+For transistor M1 : L=500nm , W=8.33um;
+For transistor M2 : L=500nm , W=8.33um;
+For transistor M3 : L=500nm , W=10um;
+![image alt]()
+For transistor M1 : L=1um , W=16.66um;
+For transistor M2 : L=1um , W=16.66um;
+For transistor M3 : L=1um , W=20um;
