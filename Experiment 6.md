@@ -24,7 +24,7 @@ Iref = P/(2*V)
 For transistor M1 : L=180nm , W=3um;
 For transistor M2 : L=180nm , W=3um;
 For transistor M3 : L=180nm , W=3.6um;
-![image alt]()
+![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/2c373491549ff4e8683c9a931c80975c050e037e/d.png)
 For transistor M1 : L=500nm , W=8.33um;
 For transistor M2 : L=500nm , W=8.33um;
 For transistor M3 : L=500nm , W=10um;
