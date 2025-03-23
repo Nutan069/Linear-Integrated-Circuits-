@@ -69,7 +69,7 @@ B)Design the differential amplifier using the same design . perform DC anlysis, 
 ![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/d545870cfdb5b6c7bbe530a7ff7cd3571e085868/k.png)
 
 DC analysis:
-![image alt]()
+![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/5defd48871ece35b01b53c3c775c34d8d2c47c36/l.png)
 
 Transient analysis:
 ![image alt]()
