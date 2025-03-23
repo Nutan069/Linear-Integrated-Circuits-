@@ -38,5 +38,6 @@ For transistor M3 : L=1um , W=20um;
 
 As the channel length increases the current mirroring will take place more accuratly because channel length modulation decreases.
 Transient analysis :
+![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/259dcb7132d32697501e7932f89bd832b17aa91a/f.png)
+Gain = vout/vin = -140mV/10mV = -14 V/V
 ![image alt]()
-Gain = vout/vin = 
