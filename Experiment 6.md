@@ -72,7 +72,7 @@ DC analysis:
 ![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/5defd48871ece35b01b53c3c775c34d8d2c47c36/l.png)
 
 Transient analysis:
-![image alt]()
+![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/31c073095df705b99b776139812e1d31899caf2b/m.png)
 Gain = vout/vin = -3.89 V/V
 
 AC analysis :
