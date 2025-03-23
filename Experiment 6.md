@@ -34,5 +34,9 @@ For transistor M3 : L=500nm , W=10um;
 For transistor M1 : L=1um , W=16.66um;
 For transistor M2 : L=1um , W=16.66um;
 For transistor M3 : L=1um , W=20um;
-![image alt]()
+![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/50f06aabc820cd9f9eba95460c60668313443871/c.png)
 
+As the channel length increases the current mirroring will take place more accuratly because channel length modulation decreases.
+Transient analysis :
+![image alt]()
+Gain = vout/vin = 
