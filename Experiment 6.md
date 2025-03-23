@@ -66,4 +66,20 @@ AC analysis :
 Bandwidth = 1.367 GHz
 
 B)Design the differential amplifier using the same design . perform DC anlysis, transient analysis and AC analysis .
+![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/d545870cfdb5b6c7bbe530a7ff7cd3571e085868/k.png)
+
+DC analysis:
 ![image alt]()
+
+Transient analysis:
+![image alt]()
+Gain = vout/vin = -3.89 V/V
+
+AC analysis :
+![image alt]()
+Bandwidth = 
+
+Inference:
+Current Duplication: The primary function of a current mirror is to duplicate a reference current, allowing it to be used in different parts of the circuit, providing consistent current sources for various components.
+Transistor Matching: Accurate current mirroring depends on closely matched transistors. Differences in characteristics like threshold voltage or current gain can lead to discrepancies in the mirrored current
+Impact of Output Impedance: The output impedance plays a crucial role in determining the precision of the mirrored current. Higher output impedance typically leads to better current regulation, making the circuit more reliable
