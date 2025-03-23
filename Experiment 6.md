@@ -25,10 +25,14 @@ For transistor M1 : L=180nm , W=3um;
 For transistor M2 : L=180nm , W=3um;
 For transistor M3 : L=180nm , W=3.6um;
 ![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/2c373491549ff4e8683c9a931c80975c050e037e/d.png)
+
 For transistor M1 : L=500nm , W=8.33um;
 For transistor M2 : L=500nm , W=8.33um;
 For transistor M3 : L=500nm , W=10um;
-![image alt]()
+![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/06f61f9e8aec2e71f85e921b41e7445c4e45cdaf/e.png)
+
 For transistor M1 : L=1um , W=16.66um;
 For transistor M2 : L=1um , W=16.66um;
 For transistor M3 : L=1um , W=20um;
+![image alt]()
+
