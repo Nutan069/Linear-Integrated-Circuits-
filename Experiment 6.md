@@ -62,5 +62,8 @@ Transient analysis :
 Gain = vout/vin = -140mV/10mV = -14 V/V
 
 AC analysis :
-![image alt]()
+![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/aaccd123f08338215906e68fceb8c86d9e4dc2ca/j.png)
 Bandwidth = 1.367 GHz
+
+B)Design the differential amplifier using the same design . perform DC anlysis, transient analysis and AC analysis .
+![image alt]()
