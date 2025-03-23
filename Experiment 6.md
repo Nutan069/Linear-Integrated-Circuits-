@@ -45,6 +45,22 @@ Maximimum output swing = 1.17-0.26
                        = 0.91V
 
 AC analysis :
-![image alt]()
+![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/f5c2ba64355a16ae0ec50e23cf2ca57fbcfba5a6/g.png)
 Bandwidth = 2.259 GHz
 
+For mirror ratio 1:2 
+Iref = P/(3*V) 
+     = 0.185 mA
+DC analysis :
+For transistor M1 : L=180nm , W=3um;
+For transistor M2 : L=180nm , W=6um;
+For transistor M3 : L=180nm , W=4.75um;
+![image alt]()
+
+Transient analysis :
+![image alt]()
+Gain = vout/vin = -140mV/10mV = -14 V/V
+
+AC analysis :
+![image alt]()
+Bandwidth = 1.367 GHz
