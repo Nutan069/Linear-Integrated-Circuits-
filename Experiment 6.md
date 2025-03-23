@@ -13,3 +13,6 @@ This ensures that the current in M2 mirrors the current in M1, assuming they are
 The basic current mirror uses a single MOSFET as the reference and another to copy the current. 
 Improved designs, such as the cascode current mirror, offer better accuracy and higher output impedance.
 The mirror’s accuracy depends on matching MOSFETs and proper biasing.
+
+Design Question : 
+
