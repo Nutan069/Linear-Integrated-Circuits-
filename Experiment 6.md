@@ -76,8 +76,8 @@ Transient analysis:
 Gain = vout/vin = -3.89 V/V
 
 AC analysis :
-![image alt]()
-Bandwidth = 
+![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/f19bde02a4410c9342cc39767a1171bba24a4959/n.png)
+Bandwidth = 194 GHz
 
 Inference:
 Current Duplication: The primary function of a current mirror is to duplicate a reference current, allowing it to be used in different parts of the circuit, providing consistent current sources for various components.
