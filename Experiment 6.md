@@ -37,7 +37,14 @@ For transistor M3 : L=1um , W=20um;
 ![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/50f06aabc820cd9f9eba95460c60668313443871/c.png)
 
 As the channel length increases the current mirroring will take place more accuratly because channel length modulation decreases.
+
 Transient analysis :
 ![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/259dcb7132d32697501e7932f89bd832b17aa91a/f.png)
 Gain = vout/vin = -140mV/10mV = -14 V/V
+Maximimum output swing = 1.17-0.26
+                       = 0.91V
+
+AC analysis :
 ![image alt]()
+Bandwidth = 2.259 GHz
+
