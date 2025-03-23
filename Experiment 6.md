@@ -55,7 +55,7 @@ DC analysis :
 For transistor M1 : L=180nm , W=3um;
 For transistor M2 : L=180nm , W=6um;
 For transistor M3 : L=180nm , W=4.75um;
-![image alt]()
+![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/ba3356cbd4bdae14eacca825839d3a76c457d1d8/h.png)
 
 Transient analysis :
 ![image alt]()
