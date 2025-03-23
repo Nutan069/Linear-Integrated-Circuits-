@@ -58,7 +58,7 @@ For transistor M3 : L=180nm , W=4.75um;
 ![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/ba3356cbd4bdae14eacca825839d3a76c457d1d8/h.png)
 
 Transient analysis :
-![image alt]()
+![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/97a8e4057826381e18cf7012b40ba7fdae6191b3/i.png)
 Gain = vout/vin = -140mV/10mV = -14 V/V
 
 AC analysis :
