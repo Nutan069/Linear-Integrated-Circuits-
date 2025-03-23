@@ -15,4 +15,12 @@ Improved designs, such as the cascode current mirror, offer better accuracy and 
 The mirror’s accuracy depends on matching MOSFETs and proper biasing.
 
 Design Question : 
-
+![image alt](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/2fb70c52e1a9607f48c5be4de04dd79e1f851d62/a.png)
+A)
+For 1:1 mirror ratio
+Iref = P/(2*V) 
+     = 0.276 mA
+     
+For transistor M1 : L=180nm , W=3um
+For transistor M2 : L=180nm , W=3um
+For transistor M3 : L=180nm , W=3.6um
