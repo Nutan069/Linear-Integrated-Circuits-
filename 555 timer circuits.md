@@ -164,57 +164,6 @@ Output Waveform: -
 ![image](https://github.com/user-attachments/assets/df261aa6-19a1-41bf-82f9-d65b0f5742c9)
 
 
- give me this github report in different words , dont change data
-ChatGPT said:
-Sure! Here's your GitHub report rewritten in different words, while keeping all the data and information intact:
-
-Monostable Multivibrator Using 555 Timer IC
-Objective
-To generate a 0.5 ms pulse using input trigger signals.
-Concept
-A monostable multivibrator, often referred to as a one-shot timer, has only one stable state. When triggered by an external pulse, it shifts to a temporary unstable state and then automatically returns to its stable state after a predetermined duration.
-
-The pulse width of this unstable state is governed by an RC (resistor-capacitor) time constant. The output pulse begins with the incoming trigger, and its end is set by the charging time of the capacitor. This configuration allows us to produce fixed-length pulses following each trigger. The time duration of each pulse can be precisely set by selecting suitable R and C values.
-
-Operation
-With a 555 timer configured in monostable mode, the output stays low until a trigger signal is detected. When the voltage on pin 2 falls below a threshold, the output switches high (quasi-stable state). At this moment, the internal discharge transistor turns off and the capacitor begins charging through resistor R1.
-
-As the capacitor voltage rises and eventually surpasses 2/3 of Vcc, the internal flip-flop resets the output back to low. The width of the output pulse is calculated using the equation:
-T = 1.1 × R × C,
-where R is resistance in ohms and C is capacitance in farads.
-
-Hence, a 555 timer in monostable mode is useful for generating time-specific pulses triggered externally, such as in push-button systems.
-
-Related Media and References
-Circuit Diagram
-image
-
-Pulse Width Calculation
-Given:
-T = 0.5 ms
-Assume: C = 0.1 µF
-Using the formula T = 1.1 × R × C:
-R = 0.5 ms / (1.1 × 0.1 µF) = 4.5454 kΩ
-
-Output Waveform
-image
-When the trigger voltage is less than 1/3 Vcc, the output becomes high.
-
-Conclusion
-The output remains LOW until a trigger is applied.
-
-Once triggered, the output goes HIGH for a duration set by the RC time constant.
-
-With a capacitor of 0.1 µF, a resistor of about 4.5454 kΩ gives a 0.5 ms pulse.
-
-This setup is effective in creating precise time delays using a 555 timer in monostable mode.
-
-Astable and Monostable Multivibrators Using 555 Timer IC
-Objective
-To produce a 0.5 ms pulse using a 555 timer IC.
-
-Background
-An astable multivibrator produces continuous square waves without needing an external trigger. The duration of HIGH and LOW states is determined by two resistors and a capacitor.
 
 In a differentiator circuit, the capacitor is placed at the input side, while a resistor is placed in the feedback loop. It highlights changes in the signal, producing voltage spikes based on how quickly the input changes. The RC values determine the rate of change.
 
