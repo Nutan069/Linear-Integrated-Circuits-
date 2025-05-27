@@ -328,11 +328,3 @@ image
 Output Voltage:
 image
 
-Let me know if you need this as a downloadable PDF or Markdown document for GitHub!
-
-
-
-
-
-No file chosenNo file chosen
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
