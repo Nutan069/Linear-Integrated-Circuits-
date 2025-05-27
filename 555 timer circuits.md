@@ -30,7 +30,7 @@ Ultimately, in a 555 timer monostable multivibrator, the output typically stays 
 
 Sources and related content
 ## Circuit Diagram:
-![image](https://github.com/user-attachments/assets/bb37f20b-66b4-4744-901d-e0262de2926d)
+![image](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/6c5bfbf6a11a8653c39031c3d1cc63ed64370d73/Screenshot%202025-05-27%20054614.png)
 
 ## Calculation:
 Given that T=0.5ms and assume c=.1uF.
