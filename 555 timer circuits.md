@@ -155,7 +155,7 @@ Finally, when we triggered a monostable 555 with those edges, we got clean, unif
 13.	Set supply voltage (Vcc).
 
 ## Circuit Diagram
-![image](https://github.com/user-attachments/assets/b07bcbbe-72dd-4548-a828-e1ff5dc9cebd)
+![image](https://github.com/user-attachments/assets/303eba91-66eb-4a6a-9dbc-12f03dbb176c)
 
 
 ## Otuput Waveform
