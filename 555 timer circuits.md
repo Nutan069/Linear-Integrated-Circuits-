@@ -155,7 +155,7 @@ Finally, when we triggered a monostable 555 with those edges, we got clean, unif
 13.	Set supply voltage (Vcc).
 
 ## Circuit Diagram
-![image](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/6c5bfbf6a11a8653c39031c3d1cc63ed64370d73/Screenshot%202025-05-27%20054614.png)
+![image](https://github.com/Nutan069/Linear-Integrated-Circuits-/blob/bb1d69f302330057d7b997079e43c5da0af02d0b/Screenshot%202025-05-27%20055218.png)
 
 
 ## Otuput Waveform
