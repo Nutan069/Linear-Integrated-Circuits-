@@ -1,7 +1,4 @@
-Skip to content
-Chat history
 
-You said:
 
 # Monostable multivibrator using 555 timer IC .
 ## Aim
